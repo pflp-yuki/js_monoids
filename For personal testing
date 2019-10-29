@@ -1,3 +1,6 @@
+<html>
+<body>
+<script>
 const array1 =
     [1, 2]
         .concat([3]) 
@@ -5,3 +8,6 @@ const array1 =
 
 console.log(array1);
 //[1,2,3,4,5]
+</script>
+</body>
+</html>
